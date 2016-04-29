@@ -1,2 +1,5 @@
 # hello-world
-the first repository I built in github
+
+
+My name is Sai Chang.
+I am very glad to code in github.
